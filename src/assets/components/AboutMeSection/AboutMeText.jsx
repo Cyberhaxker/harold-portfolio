@@ -18,10 +18,10 @@ const AboutMeText = () => {
           <img src="images/msu.jpeg" className='border border-cyan rounded-[20px] object-cover bg-darkCyan hover:shadow-orangeShadow' alt="msu" />
           </div>
           <div>
-          <img src="/images/ibm.png"  className='border border-cyan rounded-[20px] object-cover bg-darkCyan hover:shadow-orangeShadow' alt="ibm" />
+          <img src="images/ibm.png"  className='border border-cyan rounded-[20px] object-cover bg-darkCyan hover:shadow-orangeShadow' alt="ibm" />
           </div>
           <div>
-          <img src="/images/hackthebox.png" className="border border-cyan rounded-[20px] object-cover bg-darkCyan hover:shadow-orangeShadow" alt="htb" />
+          <img src="images/hackthebox.png" className="border border-cyan rounded-[20px] object-cover bg-darkCyan hover:shadow-orangeShadow" alt="htb" />
           </div>
           </div>
     </div>

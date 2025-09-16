@@ -5,7 +5,7 @@ import { PiOctagonThin } from "react-icons/pi";
 function HeroPic() {
   return (
     <div className='h-full flex items-center justify-center'>
-        <img src="/public/images/mambo2.jpeg"
+        <img src="images/mambo2.png"
          alt="Harold G. Muchenje" 
          className='max-h-[460px] w-auto mt-[-30px] ml-1' 
         />
