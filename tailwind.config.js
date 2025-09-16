@@ -1,8 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
-    "/home/cybermambo/Documents/h-portfolio/index.html",
-    "/home/cybermambo/Documents/h-portfolio/src/**/*.{js,ts,jsx,tsx}",
+    "/home/cybermambo/Documents/harold-portfolio/index.html",
+    "/home/cybermambo/Documents/harold-portfolio/src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
     screens: {
